@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_last_digit - entry point
+*print_last_digit - entry point
 *@n: input
 *Return: last digit
 */
@@ -14,6 +14,7 @@ _putchar(-l + 48);
 return (-l);
 }
 else
+{
 _putchar(l + 48);
 return (l);
 }
