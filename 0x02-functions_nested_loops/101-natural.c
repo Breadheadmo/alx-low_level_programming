@@ -2,6 +2,7 @@
 * Auth: vincent kip
 */
 #include <stdio.h>
+#include <stddef.h>
 /**
 * main - lists all the natural numbers below 1024 (excluded)
 * that are multiples of 3 of 5.
